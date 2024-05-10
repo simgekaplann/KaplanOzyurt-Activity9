@@ -23,4 +23,4 @@ $(document).ready(function() {
 
     // move focus to first thumbnail
     $("li:first-child a").focus();
-});
+}); 
